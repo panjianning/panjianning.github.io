@@ -1,8 +1,45 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
-    <meta http-equiv="refresh" content="0;url=/edit" />
+    <meta charset="UTF-8" />
+    <title>TinyGimp | Online Image Editor With Fancy Text</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f2f2f2;
+        }
+
+        .image {
+            max-width: 100%;
+            margin-top: 50px;
+        }
+
+        .button {
+            margin-top: 20px;
+            background-color: #333;
+            color: #fff;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            align-self: center;
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        .button:hover {
+            background-color: #666;
+        }
+    </style>
 </head>
+
 <body>
+    <img src="https://cdn.jsdelivr.net/gh/panjianning/mystatic/img/home-page-impact.png" alt="TinyGimp" class="image">
+    <a href="/edit" class="button">Start TinyGimp</a>
 </body>
+
 </html>
