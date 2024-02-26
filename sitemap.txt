@@ -28,6 +28,8 @@ https://www.tinygimp.com/template/valentine
 https://www.tinygimp.com/template/gold-2024
 https://www.tinygimp.com/template/gold-proj
 https://www.tinygimp.com/template/wood
+https://www.tinygimp.com/template/pop
+https://www.tinygimp.com/template/wow-comic
 https://www.tinygimp.com/zh/
 https://www.tinygimp.com/zh/text3d
 https://www.tinygimp.com/zh/edit
@@ -57,6 +59,8 @@ https://www.tinygimp.com/zh/template/valentine
 https://www.tinygimp.com/zh/template/gold-2024
 https://www.tinygimp.com/zh/template/gold-proj
 https://www.tinygimp.com/zh/template/wood
+https://www.tinygimp.com/zh/template/pop
+https://www.tinygimp.com/zh/template/wow-comic
 https://www.tinygimp.com/ja/
 https://www.tinygimp.com/ja/text3d
 https://www.tinygimp.com/ja/edit
@@ -86,3 +90,5 @@ https://www.tinygimp.com/ja/template/valentine
 https://www.tinygimp.com/ja/template/gold-2024
 https://www.tinygimp.com/ja/template/gold-proj
 https://www.tinygimp.com/ja/template/wood
+https://www.tinygimp.com/ja/template/pop
+https://www.tinygimp.com/ja/template/wow-comic
