@@ -31,6 +31,9 @@ https://www.tinygimp.com/template/wood
 https://www.tinygimp.com/template/pop
 https://www.tinygimp.com/template/wow-comic
 https://www.tinygimp.com/template/purple-pop
+https://www.tinygimp.com/template/half-god
+https://www.tinygimp.com/template/gold-dash
+https://www.tinygimp.com/template/gray-metal
 https://www.tinygimp.com/zh/
 https://www.tinygimp.com/zh/text3d
 https://www.tinygimp.com/zh/edit
@@ -63,6 +66,9 @@ https://www.tinygimp.com/zh/template/wood
 https://www.tinygimp.com/zh/template/pop
 https://www.tinygimp.com/zh/template/wow-comic
 https://www.tinygimp.com/zh/template/purple-pop
+https://www.tinygimp.com/zh/template/half-god
+https://www.tinygimp.com/zh/template/gold-dash
+https://www.tinygimp.com/zh/template/gray-metal
 https://www.tinygimp.com/ja/
 https://www.tinygimp.com/ja/text3d
 https://www.tinygimp.com/ja/edit
@@ -95,3 +101,6 @@ https://www.tinygimp.com/ja/template/wood
 https://www.tinygimp.com/ja/template/pop
 https://www.tinygimp.com/ja/template/wow-comic
 https://www.tinygimp.com/ja/template/purple-pop
+https://www.tinygimp.com/ja/template/half-god
+https://www.tinygimp.com/ja/template/gold-dash
+https://www.tinygimp.com/ja/template/gray-metal
