@@ -38,6 +38,8 @@ https://www.tinygimp.com/template/curve-gold
 https://www.tinygimp.com/template/pink-white
 https://www.tinygimp.com/template/gold-gem
 https://www.tinygimp.com/template/flame
+https://www.tinygimp.com/template/3d-text
+https://www.tinygimp.com/template/bevel-text
 https://www.tinygimp.com/zh/
 https://www.tinygimp.com/zh/text3d
 https://www.tinygimp.com/zh/edit
@@ -77,6 +79,8 @@ https://www.tinygimp.com/zh/template/curve-gold
 https://www.tinygimp.com/zh/template/pink-white
 https://www.tinygimp.com/zh/template/gold-gem
 https://www.tinygimp.com/zh/template/flame
+https://www.tinygimp.com/zh/template/3d-text
+https://www.tinygimp.com/zh/template/bevel-text
 https://www.tinygimp.com/ja/
 https://www.tinygimp.com/ja/text3d
 https://www.tinygimp.com/ja/edit
@@ -116,3 +120,5 @@ https://www.tinygimp.com/ja/template/curve-gold
 https://www.tinygimp.com/ja/template/pink-white
 https://www.tinygimp.com/ja/template/gold-gem
 https://www.tinygimp.com/ja/template/flame
+https://www.tinygimp.com/ja/template/3d-text
+https://www.tinygimp.com/ja/template/bevel-text
